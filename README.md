@@ -5,7 +5,7 @@ go写的一些东西汇总一下
 
 2.myexec.go用shell调用ffmpeg(mp3转pcm).
 
-3.test2.go是一个简单的并发的http服务器（有https）.
+3.test2.go是一个并发的http服务器（有https）.
 
 
 
